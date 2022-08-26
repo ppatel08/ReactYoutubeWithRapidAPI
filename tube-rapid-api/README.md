@@ -1,8 +1,8 @@
-# Getting Started
+# Getting Started with React app with RAPID API
 
 - npm start from src folder 
 
-# Deployment to Netlify
+## Deployment to Netlify
 
 - navigate to build folder 
 - netlify deploy (make sure to install npm netlfiy)
