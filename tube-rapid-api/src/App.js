@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> This is another test.
+          This is last and final test that the site is being deploy in the
+          production
         </p>
         <a
           className="App-link"
