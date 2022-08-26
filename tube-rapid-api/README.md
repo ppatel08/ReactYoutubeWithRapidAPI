@@ -6,4 +6,5 @@
 
 - navigate to build folder 
 - npm run build
-- netlify deploy (make sure to install npm netlfiy)
+- netlify deploy (make sure to install npm netlfiy) to see the preview 
+- netlify deploy --prod (Final Production)
