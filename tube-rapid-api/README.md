@@ -5,4 +5,5 @@
 ## Deployment to Netlify
 
 - navigate to build folder 
+- npm run build
 - netlify deploy (make sure to install npm netlfiy)
